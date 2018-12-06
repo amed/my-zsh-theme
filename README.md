@@ -1,6 +1,6 @@
-Copy 'amed.zsh-theme' to `~/.oh-my-zsh/themes/`
+# My oh-my-zsh Theme
 
-add `ZSH_THEME="amed"` to your `~/.zshrc`
-
+copy `amed.zsh-theme` to `~/.oh-my-zsh/themes/`  
+add `ZSH_THEME="amed"` to your `~/.zshrc`  
 
 ![This is how it looks like on terminal](img.png)
